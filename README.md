@@ -2,11 +2,11 @@
 
 > A minimalist React web app that turns a single laughing video into a playful, tap-to-replay experience.
 
-[Live Demo](https://your-vercel-url.vercel.app)
+[Live Demo](https://naiwa.vercel.app/)
 
 ## Screenshot
 
-![Nawa Laugh screenshot](./docs/screenshot-placeholder.png)
+![Nawa Laugh screenshot](Vibe_Coding\Nawa Laugh\screen shot.jpg)
 
 ## Features
 
@@ -34,12 +34,9 @@
 ### Install
 
 ```bash
+git clone https://github.com/Fluorine-Brian/Naiwa-Laugh.git
+cd Naiwa-Laugh
 npm install
-```
-
-### Start the development server
-
-```bash
 npm run dev
 ```
 
